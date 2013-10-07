@@ -1,5 +1,5 @@
 {
-    "name": "machuga/authority-l4",
+    "name": "jonkristian/authority-l4",
     "type": "library",
     "description": "A simple and flexible authorization system for PHP",
     "keywords": ["laravel", "laravel 4", "authentication", "authorization"],
