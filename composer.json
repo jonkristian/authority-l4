@@ -39,7 +39,7 @@
             "Authority\\AuthorityL4": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.x-dev"
